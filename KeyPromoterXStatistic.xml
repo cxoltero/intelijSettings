@@ -1,0 +1,262 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'Ctrl+K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Forge Client'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Alt+F5'</ShortCut>
+          <Description>Debug 'Forge Client'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Run Client'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Alt+F5'</ShortCut>
+          <Description>Debug 'Run Client'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expression Type">
+        <Item>
+          <IdeaActionID>ExpressionTypeInfo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+P'</ShortCut>
+          <Description>Expression Type</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Favorites">
+        <Item>
+          <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
+          <ShortCut>'Alt+2'</ShortCut>
+          <Description>Favorites</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'Alt+3'</ShortCut>
+          <Description>Find</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Messages">
+        <Item>
+          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
+          <ShortCut>'Alt+0'</ShortCut>
+          <Description>Messages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Focus Left">
+        <Item>
+          <IdeaActionID>TabShiftActions.MoveFocusLeft</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+['</ShortCut>
+          <Description>Move Focus Left</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Focus Right">
+        <Item>
+          <IdeaActionID>TabShiftActions.MoveFocusRight</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+]'</ShortCut>
+          <Description>Move Focus Right</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Pause Program">
+        <Item>
+          <IdeaActionID>Pause</IdeaActionID>
+          <ShortCut>'Ctrl+Pause' or 'Ctrl+Shift+P'</ShortCut>
+          <Description>Pause Program</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+R'</ShortCut>
+          <Description>Refresh</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Forge Client'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Forge Client'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Run Client'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Run 'Run Client'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unnamed'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unnamed'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diff">
+        <Item>
+          <IdeaActionID>Diff.ShowDiff</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Show Diff</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Forge Client'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Shift+F5'</ShortCut>
+          <Description>Stop 'Forge Client'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'Alt+7'</ShortCut>
+          <Description>Structure</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
