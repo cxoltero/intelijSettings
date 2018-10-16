@@ -198,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'Run Client'</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unnamed'">
@@ -214,6 +214,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'replay_mod:versions:1.12.2 [assemble]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'replay_mod:versions:1.12.2 [clean]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Run 'replay_mod:versions:1.12.2 [clean]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
