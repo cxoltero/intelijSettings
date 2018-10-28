@@ -206,7 +206,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unnamed'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'replay_mod:versions:1.12.2 [assemble]'">
@@ -286,7 +286,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
