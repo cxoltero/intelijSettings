@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.0-pre1" />
+    <option name="version" value="2.9.6.4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightThickness" value="1" />
@@ -11,6 +11,8 @@
     <option name="tabsHeight" value="28" />
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="userId" value="-3db5cdc2:16590c62a94:-8000" />
     <option name="allowDataCollection" value="true" />
     <option name="isHighContrast" value="true" />
