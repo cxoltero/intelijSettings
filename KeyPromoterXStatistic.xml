@@ -25,6 +25,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare Files">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Compare Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Forge Client'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -46,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
