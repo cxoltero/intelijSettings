@@ -241,6 +241,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Malmo [build]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Malmo [build]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Malmo [clean build]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Malmo [clean build]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Run Client'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
