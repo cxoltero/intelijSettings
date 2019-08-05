@@ -161,6 +161,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste from History...">
+        <Item>
+          <IdeaActionID>PasteMultiple</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+V' or 'Ctrl+Shift+Insert'</ShortCut>
+          <Description>Paste from History...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Pause Program">
         <Item>
           <IdeaActionID>Pause</IdeaActionID>
