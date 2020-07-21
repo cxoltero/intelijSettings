@@ -3,7 +3,7 @@
     <property name="created">2020-02-04T20:33:35</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-02-04T21:29:29</property>
+    <property name="modified">2020-07-21T14:25:53</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <colors>
@@ -3484,8 +3484,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffeb95" />
+        <option name="FOREGROUND" value="5eff1c" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
