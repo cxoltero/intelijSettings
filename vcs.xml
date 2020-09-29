@@ -14,9 +14,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="brandonhoughton" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/springframeworkguru/sfg-di.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\brand\source" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/sandbox" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
