@@ -21,4 +21,8 @@
       </value>
     </option>
   </JetCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="WRAP_LONG_LINES" value="true" />
+    <option name="WRAP_ON_TYPING" value="1" />
+  </codeStyleSettings>
 </code_scheme>
